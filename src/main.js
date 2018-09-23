@@ -1,1 +1,7 @@
-console.log('Está funcionando!');
+import searchEnterTrigger from './SearchTrigger';
+import selectAlbumTrigger from './SearchAlbumTrigger';
+
+searchEnterTrigger();
+selectAlbumTrigger();
+
+

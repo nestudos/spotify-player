@@ -25,7 +25,11 @@
   },
   "author": "Nayton",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "jsdom": "^11.0.0",
+    "jsdom-global": "^3.0.2",
+    "spotify-wrapper": "^2.1.0"
+  },
   "devDependencies": {
     "babel-loader": "^7.0.0",
     "babel-preset-env": "^1.7.0",
